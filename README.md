@@ -17,7 +17,7 @@
 
 I'm a **Senior Flutter Developer** with over **5 years of experience** building high-quality, cross-platform mobile applications for **Android** and **iOS**. I specialize in creating scalable, user-focused applications with clean architecture and best practices.
 
-- 🚀 Developed **15+ large-scale applications** deployed across **multiple regions**
+- 🚀 Developed **20+ large-scale applications** deployed across **multiple regions**
 - 💡 Expert in **Clean Architecture**, **State Management** (Bloc, Provider, Riverpod), and **Firebase**
 - 🎯 Passionate about **UI/UX**, **Performance Optimization**, and **RESTful API Integration**
 - 📱 Published apps with **millions of downloads** on Google Play and App Store
