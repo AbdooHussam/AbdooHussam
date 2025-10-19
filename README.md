@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Abdelrahman Hossam 👋
+# Hi there, I'm Abdelrahman Hossam Ali 👋
 ### Flutter Developer | Mobile App Specialist | Cross-Platform Expert
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0091EA&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Flutter+Experience;Building+Scalable+Mobile+Applications;Published+Apps+on+App+Store+%26+Google+Play;Clean+Architecture+%26+Best+Practices" alt="Typing SVG" />
@@ -8,6 +8,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AbdooHussam&color=0091EA&style=flat-square)](https://github.com/AbdooHussam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdelrahman-hossam-030130199)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.hossaam@gmail.com)
+<!-- [![Resume](https://img.shields.io/badge/Resume-View-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-hossam-030130199) -->
+
+<!-- [![Followers](https://img.shields.io/github/followers/AbdooHussam?style=flat-square&color=0091EA&label=Followers)](https://github.com/AbdooHussam?tab=followers) -->
 
 </div>
 
@@ -15,12 +18,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Flutter Developer** with over **5 years of experience** building high-quality, cross-platform mobile applications for **Android** and **iOS**. I specialize in creating scalable, user-focused applications with clean architecture and best practices.
+I'm a **Senior Flutter Developer** with over **5 years of experience** building high-quality, cross-platform mobile applications for **Android** and **iOS**. I specialize in crafting clean UI/UX, integrating RESTful APIs and Firebase, and applying architectural patterns like **Clean Architecture** and **MVC**.
 
 - 🚀 Developed **20+ large-scale applications** deployed across **multiple regions**
-- 💡 Expert in **Clean Architecture**, **State Management** (Bloc, Provider, Riverpod), and **Firebase**
-- 🎯 Passionate about **UI/UX**, **Performance Optimization**, and **RESTful API Integration**
+- 💡 Expert in **Clean Architecture**, **MVC**, **SOLID Principles**, and **State Management** (Bloc, Provider, Riverpod)
+- 🎯 Proficient in **Performance Optimization**, **Advanced UI/Animations**, and **Firebase Suite** (Auth, Firestore, Cloud Messaging)
+- 🔧 Strong backend integration skills with **Node.js**, **MongoDB**, and **RESTful APIs**
 - 📱 Published apps with **millions of downloads** on Google Play and App Store
+- 🧠 Strong problem solver with expertise in **algorithms** and **debugging complex issues**
 
 ---
 
@@ -35,10 +40,13 @@ I'm a **Senior Flutter Developer** with over **5 years of experience** building 
 ![BLoC](https://img.shields.io/badge/BLoC-00ACC1?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-8BC34A?style=for-the-badge&logo=flutter&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-673AB7?style=for-the-badge&logo=flutter&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0091EA?style=for-the-badge&logo=flutter&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-FF9800?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -57,9 +65,14 @@ I'm a **Senior Flutter Developer** with over **5 years of experience** building 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Other Technologies
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Animations](https://img.shields.io/badge/Animations-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+<!-- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) -->
 
 </div>
 
@@ -69,20 +82,24 @@ I'm a **Senior Flutter Developer** with over **5 years of experience** building 
 
 ```dart
 class FlutterDeveloper {
-  final String name = "Abdelrahman Hossam";
+  final String name = "Abdelrahman Hossam Ali";
   final int experienceYears = 5;
 
   final List<String> expertise = [
-    "Mobile App Development",
-    "Cross-Platform Solutions",
-    "Clean Architecture & SOLID Principles",
+    "Flutter & Dart (OOP, Advanced UI, Animations)",
+    "Cross-Platform Mobile App Development",
+    "Clean Architecture & MVC Pattern",
+    "SOLID Principles & Design Patterns",
     "State Management (Bloc, Provider, Riverpod)",
-    "Firebase Integration",
+    "Firebase Suite (Auth, Firestore, Cloud Messaging)",
     "RESTful API Development & Integration",
-    "UI/UX Implementation",
-    "Performance Optimization",
+    "Backend Integration (Node.js, MongoDB)",
+    "Performance Optimization & Debugging",
+    "UI/UX Implementation & Responsive Design",
     "Google Play & App Store Publishing",
+    "Git & GitHub (Version Control, CI/CD)",
     "Team Leadership & Collaboration",
+    "Problem Solving & Algorithm Design",
   ];
 
   final Map<String, List<String>> projectTypes = {
@@ -92,6 +109,10 @@ class FlutterDeveloper {
     "Enterprise": ["HR management", "Attendance systems", "Business solutions"],
     "Service Booking": ["Provider-User platforms", "Real-time chat", "Payment gateways"],
   };
+  
+  void developApp() {
+    print("Building scalable, user-focused applications with best practices! 🚀");
+  }
 }
 ```
 
@@ -156,17 +177,18 @@ class FlutterDeveloper {
 </td>
 <td width="50%" valign="top">
 
-#### 🛍️ Rekan | ركان
-**Multi-Vendor E-Commerce Platform (3 Apps)**
-- Rekan Store (User App): Browse all products, view vendors, purchase items, and track orders.
-- Rekan Seller: Add products and manage orders and finances.
-- Rekan Delivery: Dedicated app for delivery agents to track tasks and finances.
+#### 🍕 Deli Pizza | بيتزا ديلي
+**Multi-Branch Restaurant Application**
+- 🍕 Purchase pizza with customizable add-ons
+- 🏢 Multi-branch support for seamless ordering
+- ⭐ Points system to reward loyal customers
+- 💳 Integrated payment gateway
+- 🔔 Push notifications for order updates
 
-**Tech Stack:** Flutter, Firebase, REST API, Payment Gateway, Maps API
+**Tech Stack:** Flutter, REST API, Payment Gateway, Push Notifications
 
-[![Google Play - User](https://img.shields.io/badge/User_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rakan.muscatapps)
-[![Google Play - Seller](https://img.shields.io/badge/Seller_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rekan.seller.muscatapps)
-[![Google Play - Delivery](https://img.shields.io/badge/Delivery_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rekan.delivery.muscatapps)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/id1624256285)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.pizza.deli_pizza)
 
 </td>
 </tr>
@@ -215,6 +237,23 @@ class FlutterDeveloper {
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.abaya.lotus.om)
 
 </td>
+<td width="50%" valign="top">
+
+#### 🛍️ Rekan | ركان
+**Multi-Vendor E-Commerce Platform (3 Apps)**
+- Rekan Store (User App): Browse all products, view vendors, purchase items, and track orders.
+- Rekan Seller: Add products and manage orders and finances.
+- Rekan Delivery: Dedicated app for delivery agents to track tasks and finances.
+
+**Tech Stack:** Flutter, Firebase, REST API, Payment Gateway, Maps API
+
+[![Google Play - User](https://img.shields.io/badge/User_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rakan.muscatapps)
+[![Google Play - Seller](https://img.shields.io/badge/Seller_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rekan.seller.muscatapps)
+[![Google Play - Delivery](https://img.shields.io/badge/Delivery_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rekan.delivery.muscatapps)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🕌 Maawel Zakat
