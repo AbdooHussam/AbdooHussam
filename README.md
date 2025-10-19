@@ -17,13 +17,10 @@
 
 I'm a **Senior Flutter Developer** with over **4 years of experience** building high-quality, cross-platform mobile applications for **Android** and **iOS**. I specialize in creating scalable, user-focused applications with clean architecture and best practices.
 
-- 🔭 Currently working as **Flutter Developer** at **Tamkeen HR** (Riyadh, Saudi Arabia)
 - 🚀 Developed **15+ large-scale applications** deployed across **Oman, Saudi Arabia, and Egypt**
 - 💡 Expert in **Clean Architecture**, **State Management** (Bloc, Provider, Riverpod), and **Firebase**
 - 🎯 Passionate about **UI/UX**, **Performance Optimization**, and **RESTful API Integration**
 - 📱 Published apps with **millions of downloads** on Google Play and App Store
-- 🌱 Continuously learning and staying updated with the latest Flutter trends
-- 📍 Based in **Cairo, Egypt** | Open to **Remote Opportunities**
 
 ---
 
@@ -32,10 +29,7 @@ I'm a **Senior Flutter Developer** with over **4 years of experience** building 
 <div align="center">
 
 ### Languages & Frameworks
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,js" alt="Tech stack" height="40"/>
 
 ### State Management & Architecture
 ![BLoC](https://img.shields.io/badge/BLoC-00ACC1?style=for-the-badge&logo=flutter&logoColor=white)
@@ -171,6 +165,8 @@ class FlutterDeveloper {
 **Tech Stack:** Flutter, Firebase, Payment Gateway, Maps API
 
 [![Google Play - User](https://img.shields.io/badge/User_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rakan.muscatapps)
+[![Google Play - Seller](https://img.shields.io/badge/Seller_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rekan.seller.muscatapps)
+[![Google Play - Delivery](https://img.shields.io/badge/Delivery_App-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rekan.delivery.muscatapps)
 
 </td>
 </tr>
@@ -240,21 +236,6 @@ class FlutterDeveloper {
 </tr>
 </table>
 
-<div align="center">
-
-### 🎓 University Project
-
-#### 📋 QR-Based Attendance System
-**Automated University Attendance Solution**
-- ✅ QR code scanning for attendance
-- 📱 Mobile & Desktop applications
-- 📊 Real-time attendance tracking
-- 🎯 Deployed at Modern Academy
-
-**Tech Stack:** Flutter, Desktop App Development, QR Code Integration
-
-</div>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -280,49 +261,6 @@ class FlutterDeveloper {
 
 ---
 
-## 💼 Professional Experience
-
-```
-🏢 Flutter Developer | Tamkeen HR
-   📍 Riyadh, Saudi Arabia | 2025 - Present
-
-🏢 Flutter & Odoo Developer | Seen Solutions
-   📍 Cairo, Egypt | 2023 - 2024
-
-🏢 Flutter & Odoo Developer (Remote) | Madar
-   📍 Egypt | 2023 - 2024
-
-🏢 Flutter & Node.js Full-stack (Remote) | Muscat Apps
-   📍 Oman | 2021 - Present
-```
-
----
-
-## 🎓 Education
-
-**🎓 Bachelor's Degree in Computer Science**
-- Modern Academy, Cairo, Egypt
-- 2019 - 2023
-
-**🏫 High School**
-- Dhofar School, Salalah, Oman
-- 2018
-
----
-
-## 🏆 Key Achievements
-
-- ✅ **15+ Published Applications** across multiple countries
-- ✅ **4+ Years** of professional Flutter development
-- ✅ **Multi-role Systems** expertise (User, Vendor, Driver apps)
-- ✅ **Enterprise Solutions** for HR and business management
-- ✅ **Clean Architecture** implementation in large-scale projects
-- ✅ **AI Integration** in mobile applications
-- ✅ **Cross-Platform Deployment** on Google Play & App Store
-- ✅ **Team Collaboration** with international clients
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -330,7 +268,6 @@ class FlutterDeveloper {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Hossam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-hossam-030130199)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdooHussam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdooHussam)
 [![Email](https://img.shields.io/badge/Email-abdelrahman.hossaam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.hossaam@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B201118232384-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201118232384)
 
 </div>
 
@@ -348,4 +285,11 @@ class FlutterDeveloper {
 <img src="https://komarev.com/ghpvc/?username=AbdooHussam&label=Profile%20Views&color=0091EA&style=flat-square" alt="Profile Views" />
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdooHussam/AbdooHussam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdooHussam/AbdooHussam/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdooHussam/AbdooHussam/output/github-snake.svg" />
+</picture>
+
 </div>
