@@ -278,7 +278,7 @@ class FlutterDeveloper {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdooHussam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0091EA&icon_color=0091EA&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdooHussam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=0091EA&icon_color=0091EA&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdooHussam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0091EA&icon_color=0091EA&text_color=ffffff"/>
 
 </div>
@@ -307,7 +307,7 @@ class FlutterDeveloper {
 
 </div>
 
----
+<!-- ---
 
 <div align="center">
 
@@ -320,7 +320,7 @@ class FlutterDeveloper {
 
 <img src="https://komarev.com/ghpvc/?username=AbdooHussam&label=Profile%20Views&color=0091EA&style=flat-square" alt="Profile Views" />
 
----
+--- -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdooHussam/AbdooHussam/output/github-snake-dark.svg" />
